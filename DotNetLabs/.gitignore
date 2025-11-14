@@ -1,0 +1,26 @@
+# Build folders
+bin/
+obj/
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# User secrets
+appsettings.json
+appsettings.Development.json
+
+# VSCode and Rider settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Dotnet artifacts
+*.coverage
+*.pid
+
+# Environment
+.env
